@@ -1,3 +1,6 @@
 Milk 
 Cheese 
-Soda 
+Soda
+Dish 
+Soap
+Beans  
